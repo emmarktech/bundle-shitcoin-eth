@@ -1,7 +1,11 @@
 ## FLOW
  🔥 🔥 Flashbot bundler for Ethereum chain
 
- 🔥 🔥 Enquiry_telegram: @lionelemmarkk
+Enquiry TG: https://t.me/demlinks
+
+TG Community: https://t.me/demlinkschannel
+
+Discord Community: https://discord.gg/UEmCAbhz9W
 
 Dm me for the full source, token code and contract code
 
